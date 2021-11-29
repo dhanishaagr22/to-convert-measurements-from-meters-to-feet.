@@ -1,0 +1,2 @@
+meter_to_feet = lambda a: int(a)*3.28084
+print("Meter to feet",str(meter_to_feet(input("Meter: "))))
